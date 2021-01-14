@@ -1,0 +1,31 @@
+.first-card{
+    border: 0;
+}
+.first-card img{
+    background-color: rgb(228, 228, 228);
+}
+.arham{
+    color: rgb(255, 189, 45);
+    font-size: 50px;
+}
+h1{
+    color:midnightblue;
+}
+p{
+    color: dimgray;
+}
+.adiyat{
+    color:black;
+}
+.tottot{
+    background-color: cornsilk;
+}
+.dodo{
+    color: white;
+    background-color:rgb(130, 182, 40);
+    padding: 10;
+    border-radius: 10px;
+}
+.sadman img{
+    max-width: 40%;
+}
